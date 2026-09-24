@@ -17,9 +17,9 @@ documentation, and support are controlled by its maintainer.
 ## Application Preview
 
 <p align="center">
-  <a href="./plot-weasel-field-logger-v2.3.4-main-screen.png">
+  <a href="./plotweasel-main.png">
     <img
-      src="./plot-weasel-field-logger-v2.3.4-main-screen.png"
+      src="./plotweasel-main.png.png"
       alt="Plot Weasel Field Logger v2.3.4 interface showing the Site Data screen, project controls, field session settings, plot controls, and record counts"
       width="1000"
     >
