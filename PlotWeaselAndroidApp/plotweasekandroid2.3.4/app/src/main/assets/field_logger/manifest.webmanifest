@@ -1,0 +1,21 @@
+{
+  "name": "Plot Weasel Field Logger",
+  "short_name": "Field v2.3",
+  "description": "Offline field data entry for Plot Weasel exam data.",
+  "start_url": "PlotWeasel_Field_Logger.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2ef",
+  "theme_color": "#183f3a",
+  "icons": [
+    {
+      "src": "assets/weasel.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
+
+
